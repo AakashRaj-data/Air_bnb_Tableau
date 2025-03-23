@@ -1,4 +1,5 @@
 🏡 Airbnb Data Analysis Dashboard – Neighbourhood & Neighbourhood Groups
+
 📊 Overview
 This Tableau dashboard provides insights into Airbnb listings across different neighbourhoods and neighbourhood groups. The goal is to help identify trends, pricing, and availability patterns across various locations.
 
